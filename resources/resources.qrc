@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>i18n/zh_CN.qm</file>
+</qresource>
+<qresource prefix="/icons">
+    <file>icons/app.png</file>
+    <file>icons/error.png</file>
+    <file>icons/warning.png</file>
+    <file>icons/info.png</file>
+</qresource>
+<qresource prefix="/styles">
+    <file>styles/default.qss</file>
+</qresource>
+</RCC>

@@ -1,0 +1,22 @@
+# Build directories
+build/
+build-release/
+
+# Libraries and dependencies
+libs/
+
+# Models and resources
+resources/models/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
